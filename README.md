@@ -1,2 +1,2 @@
 # Face-Detection
-A face detection program using OpenCV.
+A face detection program using OpenCV .
